@@ -18,7 +18,7 @@ jobs:
       with:
         # These names must match the Secrets names in GitHub Settings exactly
         username: student972
-        password: dckr_pat_3xPjxSndtL37o3txhlrlqyb-_Ck
+        password: dckr_pat_Cxxh1KwZJCxr4rK4Pbeh4ExhteU
 
     - name: Build and Push Docker image
       run: |
